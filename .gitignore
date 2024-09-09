@@ -1,0 +1,18 @@
+# Ignorar pastas de compilação
+bin/
+obj/
+
+# Ignorar arquivos temporários do sistema
+*.log
+*.tmp
+*.swp
+
+# Ignorar arquivos específicos do IDE
+*.cbp
+*.depend
+*.layout
+
+# Ignorar arquivos que não devem ser versionados
+*.o
+*.a
+*.lib
